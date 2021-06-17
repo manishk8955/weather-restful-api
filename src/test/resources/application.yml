@@ -1,0 +1,6 @@
+
+weather:
+  api:
+    url: https://api.openweathermap.org/data/2.5/forecast?zip=%s&appid=%s
+    key: some-key
+
